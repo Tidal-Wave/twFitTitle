@@ -1,0 +1,23 @@
+{
+  "name": "twFitTitle",
+  "version": "1.0.0",
+  "homepage": "https://github.com/tidalwaveagency/twFitTitle.git",
+  "authors": [
+    "Eric Wafford <ewafford@tidalwaveagency.com>"
+  ],
+  "description": "Internal Library for resizing title text based on parent container.",
+  "main": "./dist/twFitTitle.min.js",
+  "keywords": [
+    "jquery",
+    "UI",
+    "text"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
