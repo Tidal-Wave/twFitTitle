@@ -1,6 +1,6 @@
 {
   "name": "twfittitle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "micro library for text resizing",
   "main": "src/twFitTitle.js",
   "scripts": {
